@@ -1,4 +1,7 @@
 ### ファイブエス杯 公式得点表示
+
+![sample](https://github.com/uehara-mech/fives_score/blob/img/img/fr.jpg?raw=true)
+
 #### ルール
 http://utchomiken.blog.fc2.com/blog-entry-7.html
 
@@ -21,10 +24,12 @@ http://utchomiken.blog.fc2.com/blog-entry-7.html
 
 - Displayについて
   - この得点表示は基本的にデュアルディスプレイ（操作用PCとプロジェクター等）での使用を想定しています．Display1が操作PCでみる画面，Display2が表示用プロジェクター等に映す画面（プレイヤーが実際に見る画面）となっています．
+![display](https://github.com/uehara-mech/fives_score/blob/img/img/display.jpg?raw=true)
 
 #### 特殊な操作が必要なラウンド
-- 3R-3
-  - 3R-3はsave point付7up-downなので，開始前にセーブポイントを設定する必要があります．下図のインプットボックスに数字を入力し，"Enter"ボタンをクリックすることで，セーブポイントを設定できます．
+- 3R-C
+  - 3R-Cはsave point付7up-downなので，開始前にセーブポイントを設定する必要があります．下図のインプットボックスに数字を入力し，"Enter"ボタンをクリックすることで，セーブポイントを設定できます．
+![3R-c](https://github.com/uehara-mech/fives_score/blob/img/img/3r_c.jpg?raw=true)
 
 - QF
   - セット終了時
