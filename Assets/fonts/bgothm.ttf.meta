@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77dc103fec10d2e45a628082e9fb85ed
+timeCreated: 1486363433
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BankGothic Md BT
+  fontNames:
+  - BankGothic Md BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

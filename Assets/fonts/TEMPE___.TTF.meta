@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 714d7e4e63891444ba41f2c5c12d0d76
+timeCreated: 1487923429
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TemporaryExtra
+  fontNames:
+  - TemporaryExtra
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
